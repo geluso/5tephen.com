@@ -1,0 +1,101 @@
+body {
+	background-color: goldenrod;
+	font-family: monospace;
+	font-size: 10pt;
+}
+
+h1 {
+	font-size: 14pt;
+	margin-top: 0;
+}
+
+blockquote {
+	text-decoration: italic;
+}
+
+em {
+	background-color: yellow;
+}
+
+a {
+	color: #CC0000;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:visited {
+	color: #AA0000;
+}
+
+.item {
+	background-color: white;
+	border: solid black 1px;
+	padding: 1em;
+	margin: 1em;
+}
+
+img {
+	border: none;
+}
+
+#content {
+	width: 52em;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+.none, .none:visited, .silent {
+	text-decoration: none;
+	color: black;
+}
+
+a.ascii:hover {
+  text-decoration: none;
+}
+
+#bookmark {
+	float: right;
+	top: 0;
+	right: 0;
+	margin: 0 .5em 0 0;
+}
+
+#icon {
+	vertical-align: text-top;
+}
+
+.date {
+	float: right;
+}
+
+.source {
+	text-align: right;
+}
+
+.tight {
+	padding: 0;
+}
+
+.inline {
+	display: inline;
+}
+
+.full {
+  width: auto;
+}
+
+.logos {
+  text-align: center;
+}
+
+.logos img {
+  height: 100px;
+  padding: 5px;
+}

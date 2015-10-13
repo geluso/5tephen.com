@@ -1,0 +1,33 @@
+body {
+  line-height: 1;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 750px;
+  }
+}
+
+pre {
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+    line-height: 1;
+    color: inherit;
+    word-break: break-all;
+    word-wrap: break-word;
+    background: none;
+    border: none;
+    border-radius: 0;
+}
